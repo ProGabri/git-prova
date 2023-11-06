@@ -53,6 +53,7 @@ const PageProcopio = () => {
         tag di testo
       </p>
       <p>git reset --soft o git reset --hard</p>
+      <p>Angular è il framework più bello del mondo</p>
     </>
   );
 };
