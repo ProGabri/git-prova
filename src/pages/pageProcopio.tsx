@@ -48,6 +48,11 @@ const PageProcopio = () => {
         modifica di aggiunta del componente Button al componente page
       </p>
       <p>si può usare se abbiamo solo una commit git reset HEAD~</p>
+      <p>
+        Esiste un modo per riavvolgere il tempo in una branch? Scrivilo in un
+        tag di testo
+      </p>
+      <p>git reset --soft o git reset --hard</p>
     </>
   );
 };
