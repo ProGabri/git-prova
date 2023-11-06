@@ -36,6 +36,11 @@ const PageProcopio = () => {
         si esegue il merge su master Si può fare anche con una pull request?
       </p>
       <p>git merge --squash </p>
+      <p>
+        ho eseguito un commit ma mi sono accorto che ho sbagliato a scrivere il
+        messaggio, come posso correggerlo?.
+      </p>
+      <p>git commit --amend -m "an updated commit message"</p>
     </>
   );
 };
