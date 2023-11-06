@@ -31,6 +31,11 @@ const PageProcopio = () => {
       <p>The Weeknd</p>
       <p>Christian Bale</p>
       <p>Cristiano Ronaldo</p>
+      <p>
+        Esiste un modo per unire tutti questi commit in un unico commit quando
+        si esegue il merge su master Si può fare anche con una pull request?
+      </p>
+      <p>si può usare git rebase git squash </p>
     </>
   );
 };
