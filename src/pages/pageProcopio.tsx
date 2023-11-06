@@ -1,4 +1,5 @@
 import Logo from "../components/procopio/Logo";
+import ProcopioButton from "../components/procopio/ProcopioButton";
 
 const PageProcopio = () => {
   return (
@@ -41,6 +42,11 @@ const PageProcopio = () => {
         messaggio, come posso correggerlo?.
       </p>
       <p>git commit --amend -m "an updated commit message"</p>
+      <ProcopioButton />
+      <p>
+        in 2 commit diverse la modifica di creazione del file Button.tsx e la
+        modifica di aggiunta del componente Button al componente page
+      </p>
     </>
   );
 };
