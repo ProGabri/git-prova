@@ -55,6 +55,11 @@ const PageProcopio = () => {
       </p>
       <p>git reset --soft o git reset --hard</p>
       <p>Angular è il framework più bello del mondo</p>
+      <p>
+        Esiste un modo per mettere in pausa il lavoro su una branch e
+        riprenderlo in un secondo momento?
+      </p>
+      <p>git stash</p>
     </>
   );
 };
