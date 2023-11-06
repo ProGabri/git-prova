@@ -47,6 +47,7 @@ const PageProcopio = () => {
         in 2 commit diverse la modifica di creazione del file Button.tsx e la
         modifica di aggiunta del componente Button al componente page
       </p>
+      <p>si può usare se abbiamo solo una commit git reset HEAD~</p>
     </>
   );
 };
