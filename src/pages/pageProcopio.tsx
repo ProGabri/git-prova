@@ -30,6 +30,7 @@ const PageProcopio = () => {
       <p>usiamo git squash</p>
       <p>The Weeknd</p>
       <p>Christian Bale</p>
+      <p>Cristiano Ronaldo</p>
     </>
   );
 };
