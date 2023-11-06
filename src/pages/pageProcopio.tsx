@@ -35,7 +35,12 @@ const PageProcopio = () => {
         Esiste un modo per unire tutti questi commit in un unico commit quando
         si esegue il merge su master Si può fare anche con una pull request?
       </p>
-      <p>si può usare git rebase git squash </p>
+      <p>git merge --squash </p>
+      <p>
+        ho eseguito un commit ma mi sono accorto che ho sbagliato a scrivere il
+        messaggio, come posso correggerlo?.
+      </p>
+      <p>git commit --amend -m "an updated commit message"</p>
     </>
   );
 };
